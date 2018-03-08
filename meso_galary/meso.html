@@ -1,0 +1,60 @@
+<!-- html code -->
+<html>
+    <head>
+        <link rel="stylesheet" href="meso.css">
+    </head>
+    <body>
+<div id="container">
+		<!-- This will make sure our size stays right when using Masonry -->
+		<div class="grid-sizer"></div>
+
+		<!-- This is what Masonry will tile for you -->
+        
+        <div class="item">
+
+			<!-- An image, of course! -->
+			<img src="http://placekitten.com/650/450" class="image">
+
+			<!-- This is the overlay for the hover -->
+			<a class="overlay" href="#">
+				<h3 class="title">Some title</h3>
+				<div class="description">
+					<p>
+						Lorem ipsum dolor sit amet, <br>
+						consectetur adipisicing elit.
+					</p>
+				</div>
+			</a>
+        </div>
+        
+        <div class="item">
+
+                <!-- An image, of course! -->
+                <img src="http://placekitten.com/650/450" class="image">
+    
+                <!-- This is the overlay for the hover -->
+                <a class="overlay" href="#">
+                    <h3 class="title">Some title</h3>
+                    <div class="description">
+                        <p>
+                            Lorem ipsum dolor sit amet, <br>
+                            consectetur adipisicing elit.
+                        </p>
+                    </div>
+                </a>
+            </div>
+        ...
+</div>
+</body>
+<script>
+    $(window).load( function() {
+
+$('#container').masonry({
+    "itemSelector": ".item",
+    "columnWidth": ".grid-sizer",
+});
+
+});
+
+</script>
+</html>

@@ -1,0 +1,61 @@
+Start of conversation
+
+binary Admin Owner 12:11 PM
+http://dbrekalo.github.io/simpleLightbox/
+dbrekalo.github.io
+SimpleLightbox
+SimpleLightbox is lightweight and responsive lightbox library based on jQuery.
+
+binary Admin Owner 12:15 PM
+File Uploaded: simplelightbox-master-DCC.zip  
+Lightbox
+http://dccconference.com/ 
+
+https://www.emedeq.org/conference-gallery/
+dccconference.com
+DCC Conference 2018
+ 
+www.emedeq.org
+Conference Gallery
+MedEq: Medical equity is a non-profit organization which is working on reducing health disparities and aiming for health equity. This year MedEq is hosting its 1st annual health disparities research conference.
+
+ 
+binary Admin Owner 12:37 PM
+https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
+www.w3schools.com
+How To Create a Portfolio Gallery with Filtering
+Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.
+Lightbox
+Flexbox
+Masonry 
+Masonry with other formats like Lightbox
+http://ashleydw.github.io/lightbox/
+ashleydw.github.io
+Bootstrap Lightbox
+
+binary Admin Owner 1:00 PM
+1. team
+2. oration
+3. speakers
+4. conference
+5. venue
+
+binary Admin Owner 1:19 PM
+https://download.gimp.org/mirror/pub/gimp/v2.8/windows/gimp-2.8.22-setup.exe
+
+binary Admin Owner 1:20 PM
+File Uploaded: _Q4A9960.jpg  
+
+
+binary Admin Owner 5:52 PM
+https://www.w3schools.com/howto/howto_js_portfolio_filter.asp
+www.w3schools.com
+How To Create a Portfolio Gallery with Filtering
+Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.
+https://demo.themebeans.com/spaces/portfolio-masonry-lightbox/
+demo.themebeans.com
+Portfolio Masonry Lightbox – Spaces
+https://mobirise.com/bootstrap-gallery/
+mobirise.com
+Bootstrap Image Gallery with Responsive Grid
+How to create a Bootstrap photo gallery with thumbnails and modal lightbox slider?
